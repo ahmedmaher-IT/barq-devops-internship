@@ -1,0 +1,62 @@
+Folder PATH listing for volume New Volume
+Volume serial number is ADBA-D600
+D:.
+|   .dockerignore
+|   .editorconfig
+|   .env.example
+|   .gitattributes
+|   .gitignore
+|   AI_USAGE.md
+|   backup.sh
+|   decisions.md
+|   docker-compose.yml
+|   Dockerfile
+|   failure_test.py
+|   log_analysis.md
+|   README.md
+|   RELEASE.json
+|   requirements.txt
+|   restore.sh
+|   security_review.md
+|   tree.txt
+|   troubleshooting.md
+|   validate.py
+|   video_challenge.sh
+|   
++---app
+|       server.py
+|       __init__.py
+|       
++---assessment
+|       APPLICATION.md
+|       TASK.md
+|       
++---assets
+|       barq-logo.svg
+|       
++---config
+|       app.env
+|       
++---database
+|       init.sql
+|       
++---docs
+|       ARCHITECTURE.md
+|       EVIDENCE_INDEX.md
+|       
++---logs
+|       access.log
+|       application.log
+|       error.log
+|       README.md
+|       
++---nginx
+|       nginx.conf
+|       
++---scripts
+|       README.md
+|       video_challenge.py
+|       
+\---tests
+        test_app.py
+        
